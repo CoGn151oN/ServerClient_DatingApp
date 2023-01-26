@@ -1,0 +1,16 @@
+C:\Users\Richard\source\repos\server-client\client\bin\Debug\client.exe.config
+C:\Users\Richard\source\repos\server-client\client\bin\Debug\client.exe
+C:\Users\Richard\source\repos\server-client\client\bin\Debug\client.pdb
+C:\Users\Richard\source\repos\server-client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\server-client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard\source\repos\server-client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\server-client\client\obj\Debug\client.exe
+C:\Users\Richard\source\repos\server-client\client\obj\Debug\client.pdb
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\bin\Debug\client.exe.config
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\bin\Debug\client.exe
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\bin\Debug\client.pdb
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\obj\Debug\client.exe
+C:\Users\dblin\Downloads\server-client-proba-sz\server-client-proba-sz\client\obj\Debug\client.pdb

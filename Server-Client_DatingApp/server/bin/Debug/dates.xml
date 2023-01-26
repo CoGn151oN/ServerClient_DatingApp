@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<dates owner="jenna" whom="jack" pending="0" accepted="0" rejected="0"/>
+	<dates owner="jack" whom="jenna" pending="0" accepted="0" rejected="0"/>
+
+</data>

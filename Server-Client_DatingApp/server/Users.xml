@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user username="user" password="pwd"/>
+  <user username="admin" password="admin"/>
+  <user username="jack" password="jackpwd"/>
+  <user username="jenna" password="jennapwd"/>
+  <user username="emma" password="emmapwd"/>
+</users>
